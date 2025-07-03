@@ -53,7 +53,7 @@ sections:
           - pr-16
   - title:
       text: ¿Que ofrecemos?
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
