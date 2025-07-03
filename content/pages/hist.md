@@ -31,6 +31,10 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    badge:
+      type: Badge
+      label: De personas con discapcidad en el mundo laboral
+      color: text-primary
 slug: hist
 isDraft: false
 seo:
