@@ -85,7 +85,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Link
-            label: Ir
+            label: Visitar
             altText: ''
             url: /blog
             showIcon: false
