@@ -27,7 +27,7 @@
                 "altText": "Pagina historias"
             },
             {
-                "label": "Documentation",
+                "label": "",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
