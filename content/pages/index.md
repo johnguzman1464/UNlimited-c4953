@@ -52,7 +52,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: List of features here
+      text: ¿Que ofrecemos?
       color: text-primary
       styles:
         self:
