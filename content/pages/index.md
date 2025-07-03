@@ -161,7 +161,7 @@ sections:
             style: primary
             elementId: ''
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
