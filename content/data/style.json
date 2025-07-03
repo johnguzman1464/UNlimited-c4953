@@ -39,7 +39,7 @@
         "type": "ThemeStyleHeading"
     },
     "h5": {
-        "size": "2xl",
+        "size": "4xl",
         "weight": "normal",
         "decoration": "none",
         "case": "none",
