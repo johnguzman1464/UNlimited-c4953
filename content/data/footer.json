@@ -52,7 +52,7 @@
             },
             {
                 "label": "Quienes Somos",
-                "url": "/care",
+                "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
