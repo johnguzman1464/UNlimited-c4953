@@ -19,7 +19,7 @@
             },
             {
                 "label": "Historias",
-                "url": "/",
+                "url": "/hist",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
