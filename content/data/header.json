@@ -90,7 +90,7 @@
         }
     ],
     "variant": "logo-centered-primary-nav-left",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": "UNlimited"
 }
