@@ -22,7 +22,7 @@
             "type": "Link",
             "label": "Historias",
             "altText": "",
-            "url": "/home",
+            "url": "/hist",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
