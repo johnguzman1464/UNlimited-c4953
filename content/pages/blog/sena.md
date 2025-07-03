@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: place holder 3
+title: placeholder 3
 date: '2024-03-26'
 author: content/data/person1.json
 excerpt: >-
