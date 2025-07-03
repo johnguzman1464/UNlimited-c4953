@@ -60,7 +60,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Eventos
+      - title: Organizaciones
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
