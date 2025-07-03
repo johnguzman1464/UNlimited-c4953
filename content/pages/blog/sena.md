@@ -1,27 +1,28 @@
 ---
-title: Placeholder 2
-slug: surround-yourself-with-right-people
+type: PostLayout
+title: placeholder 3
 date: '2024-03-26'
+author: content/data/person1.json
 excerpt: >-
   Starting a business is no small feat. It’s a journey filled with challenges,
   risks, and countless decisions that can make or break your startup. One of the
   most critical decisions you'll make isn’t about your product or market—it's
   about the people you surround yourself with.
 featuredImage:
-  altText: Thumbnail
   type: ImageBlock
   url: /images/abstract-feature1.svg
+  altText: Thumbnail
   styles:
     self:
       borderRadius: medium
+bottomSections: []
+slug: /sena
+isFeatured: false
+isDraft: true
 colors: bg-light-fg-dark
-type: PostLayout
-author: content/data/person1.json
 styles:
   self:
     flexDirection: col
-isFeatured: false
-isDraft: true
 ---
 
 Starting a business is no small feat. It’s a journey filled with challenges, risks, and countless decisions that can make or break your startup. One of the most critical decisions you'll make isn’t about your product or market—it's about the people you surround yourself with.

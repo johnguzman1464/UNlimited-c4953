@@ -6,7 +6,7 @@
     },
     "text": "A description of your brand",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Servicios",
         "links": [
             {
                 "label": "Features",
@@ -19,7 +19,7 @@
             },
             {
                 "label": "Pricing",
-                "url": "/pricing",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,7 +37,7 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "unlimited",
         "links": [
             {
                 "label": "Careers",

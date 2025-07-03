@@ -1,5 +1,5 @@
 ---
-title: Top 20 Ways to Save Time at Work This Year
+title: Placeholder 4
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: >-
@@ -13,11 +13,6 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
-seo:
-  metaTitle: Top 20 Ways to Save Time at Work This Year
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature2.svg
-  type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/person4.json
@@ -25,6 +20,7 @@ styles:
   self:
     flexDirection: col
 isFeatured: false
+isDraft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
