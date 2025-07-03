@@ -85,7 +85,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Link
-            label: See Tutorials
+            label: ''
             altText: ''
             url: /blog
             showIcon: false
