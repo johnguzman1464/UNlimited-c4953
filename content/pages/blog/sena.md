@@ -18,7 +18,7 @@ featuredImage:
 bottomSections: []
 slug: /sena
 isFeatured: false
-isDraft: true
+isDraft: false
 colors: bg-light-fg-dark
 styles:
   self:
