@@ -43,7 +43,7 @@
         "links": [
             {
                 "label": "Inicio",
-                "altText": "careers page",
+                "altText": "Pagina de inicio",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
