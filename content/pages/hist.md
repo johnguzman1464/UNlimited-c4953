@@ -33,7 +33,7 @@ sections:
         justifyContent: center
     badge:
       type: Badge
-      label: De personas con discapcidad en el mundo laboral
+      label: El talento no tiene barreras
       color: text-primary
 slug: hist
 isDraft: false
