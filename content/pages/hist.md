@@ -2,7 +2,7 @@
 type: PageLayout
 title: Historias
 sections: []
-slug: empty
+slug: hist
 isDraft: false
 seo:
   type: Seo
