@@ -82,16 +82,5 @@
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
-    "title": "UNlimited",
-    "logo": {
-        "type": "ImageBlock",
-        "url": "/images/hero2.svg",
-        "altText": "Image alt text placeholder",
-        "elementId": "",
-        "styles": {
-            "self": {
-                "borderRadius": "medium"
-            }
-        }
-    }
+    "title": "UNlimited"
 }
