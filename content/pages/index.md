@@ -126,7 +126,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-      - title: Feature Item Three
+      - title: Emprendimientos
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
