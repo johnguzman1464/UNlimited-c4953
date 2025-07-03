@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Historias
 sections:
   - type: GenericSection
     title:
