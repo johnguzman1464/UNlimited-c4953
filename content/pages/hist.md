@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Historias de Exito
       color: text-dark
       styles:
         self:
