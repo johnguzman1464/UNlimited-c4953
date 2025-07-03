@@ -79,7 +79,7 @@
             "altText": "Iniciar sesión"
         }
     ],
-    "variant": "logo-centered-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": "UN limited"
