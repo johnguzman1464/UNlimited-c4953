@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "Eventos/empresas",
-            "altText": "Blog",
+            "altText": "Evetnos/empresas",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
