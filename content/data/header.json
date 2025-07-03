@@ -10,7 +10,7 @@
             "type": "Link"
         },
         {
-            "label": "Eventos/empresas",
+            "label": "Organizaciones",
             "altText": "Evetnos/empresas",
             "url": "/blog",
             "icon": "arrowRight",
