@@ -21,7 +21,7 @@
         {
             "type": "Link",
             "label": "Historias",
-            "altText": "",
+            "altText": "Pagina Historias",
             "url": "/hist",
             "showIcon": false,
             "icon": "arrowRight",
