@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Oportunidades para las personas con discapacidad
     items:
       - title: Organizaciones
         tagline: This is the tagline
