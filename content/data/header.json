@@ -75,7 +75,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Iniciar sesión"
         }
     ],
     "variant": "logo-centered-primary-nav-left",
