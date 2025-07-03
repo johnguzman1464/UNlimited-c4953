@@ -73,8 +73,8 @@
             "label": "Iniciar sesión",
             "url": "/",
             "icon": "arrowRight",
-            "iconPosition": "left",
-            "style": "primary",
+            "iconPosition": "right",
+            "style": "secondary",
             "type": "Button",
             "altText": "Iniciar sesión"
         }
