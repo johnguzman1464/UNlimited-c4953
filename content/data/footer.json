@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Organizaciones",
-                "altText": "Features page",
+                "altText": "Pagina Organizaciones",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
