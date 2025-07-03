@@ -51,7 +51,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Quienes Somos",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
