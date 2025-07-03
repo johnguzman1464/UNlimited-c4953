@@ -87,7 +87,7 @@ sections:
           - type: Link
             label: See Tutorials
             altText: ''
-            url: /blo
+            url: /blog
             showIcon: false
             icon: arrowRight
             iconPosition: right
