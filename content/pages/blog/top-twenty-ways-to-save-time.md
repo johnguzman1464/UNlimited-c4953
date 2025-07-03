@@ -19,7 +19,7 @@ author: content/data/person4.json
 styles:
   self:
     flexDirection: col
-isFeatured: false
+isFeatured: true
 isDraft: true
 ---
 
