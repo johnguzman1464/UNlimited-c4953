@@ -43,7 +43,7 @@
         {
             "type": "Link",
             "label": "Ofertas Laborales",
-            "altText": "",
+            "altText": "Pagina Ofertas Laborales",
             "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
