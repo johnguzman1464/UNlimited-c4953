@@ -33,7 +33,7 @@
             "type": "Link",
             "label": "Emprendimientos",
             "altText": "",
-            "url": "/home",
+            "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
