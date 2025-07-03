@@ -11,7 +11,7 @@
         },
         {
             "label": "Sobre Nosotros",
-            "altText": "Careers page",
+            "altText": "Pagina sobre nosotros",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
