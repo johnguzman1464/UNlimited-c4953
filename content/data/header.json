@@ -20,7 +20,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Historias",
             "altText": "",
             "url": "/home",
             "showIcon": false,
