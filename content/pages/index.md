@@ -87,7 +87,7 @@ sections:
           - type: Link
             label: Ir
             altText: ''
-            url: /
+            url: /blog
             showIcon: false
             icon: arrowRight
             iconPosition: right
