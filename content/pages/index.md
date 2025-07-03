@@ -83,6 +83,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: /home
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
