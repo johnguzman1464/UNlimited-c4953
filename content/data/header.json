@@ -1,18 +1,18 @@
 {
     "primaryLinks": [
         {
-            "label": "Eventos/empresas",
-            "altText": "Evetnos/empresas",
-            "url": "/blog",
+            "label": "Sobre Nosotros",
+            "altText": "Pagina sobre nosotros",
+            "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Sobre Nosotros",
-            "altText": "Pagina sobre nosotros",
-            "url": "/careers",
+            "label": "Eventos/empresas",
+            "altText": "Evetnos/empresas",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
