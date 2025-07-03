@@ -150,6 +150,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Link
+            label: See Tutorials
+            altText: ''
+            url: /home
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
