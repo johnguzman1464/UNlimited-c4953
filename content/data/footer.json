@@ -44,7 +44,7 @@
             {
                 "label": "Inicio",
                 "altText": "Pagina de inicio",
-                "url": "/careers",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
