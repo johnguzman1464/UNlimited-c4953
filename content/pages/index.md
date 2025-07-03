@@ -187,16 +187,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: List of features here
       color: text-primary
@@ -289,6 +279,16 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - title:
       text: Grow your business 10x faster
       color: text-dark
