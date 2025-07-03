@@ -73,7 +73,7 @@
     "secondaryLinks": [
         {
             "label": "Registrarse",
-            "altText": "Sign up",
+            "altText": "Registrarse",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
