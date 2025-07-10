@@ -60,8 +60,12 @@ sections:
       - title: Organizaciones
         tagline: ''
         subtitle: Conoce organizaciones
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Que apoyan a las personas con discapacidad, para que puedan tener un
+          trabajo de calidad
+
+
+          .
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
