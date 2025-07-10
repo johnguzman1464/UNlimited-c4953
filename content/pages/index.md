@@ -202,7 +202,7 @@ sections:
       text: ¿Buscas empleo?
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ¿Tienes una condición de discapacidad?
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
