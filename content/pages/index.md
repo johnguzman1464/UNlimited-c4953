@@ -239,8 +239,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ¿Quieres recibir y publicar contenido?
-    text: |
-      (describir beneficios).
+    text: >
+      Recibe o publica contenido sobre campañas, emprendimientos y ofertas
+      centradas en las personas con discapacidad. Impulsemos capacidades y
+      eliminemos barreras.
     media:
       fields:
         - name: name
