@@ -208,7 +208,7 @@ sections:
       que se ajuste a tus capacidades, conocimientos y habilidades.
 
 
-      Contactaremos con organizaciones y ofertas te empleo para ayudarte!
+      ¡Contactaremos con organizaciones y ofertas te empleo para ayudarte!
     actions:
       - label: Registrate
         url: /
