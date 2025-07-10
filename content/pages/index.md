@@ -59,7 +59,7 @@ sections:
     items:
       - title: Organizaciones
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Conoce organizaciones
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
