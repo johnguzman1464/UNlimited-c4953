@@ -204,8 +204,11 @@ sections:
       type: TitleBlock
     subtitle: ¿Tienes una condición de discapacidad?
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Te ayudaremos a encontrar la mejor oferta laboral para ti. Un empleo digno
+      que se ajuste a tus capacidades, conocimientos y habilidades.
+
+
+      Contactaremos con organizaciones y ofertas te empleo para ayudarte!
     actions:
       - label: Registrate
         url: /
