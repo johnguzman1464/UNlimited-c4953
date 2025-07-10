@@ -396,7 +396,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: cel
-          label: Name
+          label: cel
           hideLabel: true
           placeholder: Your name
           isRequired: true
