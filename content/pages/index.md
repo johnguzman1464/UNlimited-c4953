@@ -94,7 +94,7 @@ sections:
         tagline: ''
         subtitle: Lee historias de éxito
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          De personas con discapacidad en el mundo laboral.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
