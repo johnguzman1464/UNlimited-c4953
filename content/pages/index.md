@@ -213,7 +213,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Ver Organizaciones
         url: /
         showIcon: true
         icon: arrowRight
