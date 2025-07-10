@@ -1,9 +1,4 @@
 {
-    "logo": {
-        "url": "/images/img-placeholder-dark.png",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
     "text": "Impulsando Capacidades no Barreras\n",
     "primaryLinks": {
         "title": "Servicios",
