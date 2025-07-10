@@ -127,7 +127,7 @@ sections:
         tagline: ''
         subtitle: Conoce emprendimientos
         text: |
-          Creador por personas con discapacidad y sus cuidadores.
+          Creados por personas con discapacidad y sus cuidadores.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
