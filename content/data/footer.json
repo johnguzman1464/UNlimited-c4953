@@ -82,6 +82,13 @@
         },
         {
             "type": "Social",
+            "altText": "YouTube icon",
+            "url": "/",
+            "icon": "youtube",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
             "altText": "Instagram link",
             "url": "/",
             "icon": "instagram",
