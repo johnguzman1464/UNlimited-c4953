@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: Quienes Somos
         altText: ''
-        url: /careets
+        url: /careers
         showIcon: true
         icon: arrowRight
         iconPosition: right
