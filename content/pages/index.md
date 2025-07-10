@@ -86,7 +86,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Link
-            label: Visitar
+            label: Ver Organizaciones
             altText: ''
             url: /blog
             showIcon: false
