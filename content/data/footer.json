@@ -1,5 +1,9 @@
 {
-    "text": "***UNlimited\n***Impulsando Capacidades no Barreras.\n",
+    "logo": {
+        "altText": "Logo light",
+        "type": "ImageBlock"
+    },
+    "text": "Impulsando Capacidades no Barreras\n",
     "primaryLinks": {
         "title": "Servicios",
         "links": [
