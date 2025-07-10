@@ -11,11 +11,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Somos un pequeño grupo de estudiantes de la Universidad Nacional de
+      Colombia Sede Bogotá y estamos desarrollando esta propuesta para el evento
+      Ingenia Futuro 2025-S1. Queremos incentivar las oportunidades dignas para
+      que las personas con discapacidad tenga una independencia y estabilidad
+      económica.
     actions: []
     colors: bg-light-fg-dark
     styles:
