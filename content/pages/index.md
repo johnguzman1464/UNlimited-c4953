@@ -8,11 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Unlimited
-    text: >+
+    text: >
       Nuestra plataforma ofrece multiples alternatvias para que las personas con
       discapacidad puedan conseguir alternativas viables para tener una
-      independencia economica....
-
+      independencia economica.
     actions:
       - label: Registrarse
         altText: ''
