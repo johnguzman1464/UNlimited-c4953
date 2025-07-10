@@ -121,7 +121,7 @@ sections:
           - type: Link
             label: See Tutorials
             altText: ''
-            url: /home
+            url: /hist
             showIcon: false
             icon: arrowRight
             iconPosition: right
