@@ -390,7 +390,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Correo Electronico
           isRequired: true
           width: full
           type: EmailFormControl
