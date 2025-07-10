@@ -238,7 +238,7 @@ sections:
       text: Regístrate Ahora
       color: text-dark
       type: TitleBlock
-    subtitle: Para...
+    subtitle: ¿Quieres recibir y publicar contenido?
     text: |
       (describir beneficios).
     media:
