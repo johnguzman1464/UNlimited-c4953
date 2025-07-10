@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Unlimited
     text: >
-      Nuestra plataforma ofrece multiples alternatvias para que las personas con
-      discapacidad puedan conseguir alternativas viables para tener una
-      independencia economica.
+      Nuestra plataforma ofrece y visibiliza múltiples opciones para que las
+      personas con discapacidad puedan conseguir alternativas viables para tener
+      una independencia económica junto con un trabajo o emprendimiento estable.
     actions:
       - label: Registrarse
         altText: ''
