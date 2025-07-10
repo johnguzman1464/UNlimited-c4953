@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Impulsando capacidades, no barreras'
+      text: 'Impulsando Capacidades, No Barreras'
       color: text-dark
       type: TitleBlock
     subtitle: Unlimited
