@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Quienes Somos
         altText: ''
         url: /
         showIcon: true
