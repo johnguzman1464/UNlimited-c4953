@@ -62,10 +62,7 @@ sections:
         subtitle: Conoce organizaciones
         text: >
           Que apoyan a las personas con discapacidad, para que puedan tener un
-          trabajo de calidad
-
-
-          .
+          trabajo de calidad.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
