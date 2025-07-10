@@ -14,7 +14,7 @@ sections:
       independencia economica....
 
     actions:
-      - label: Get started
+      - label: Registrarse
         altText: ''
         url: /
         showIcon: false
