@@ -394,6 +394,13 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: TextFormControl
+          name: cel
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
       elementId: contact-form
       styles:
         self:
