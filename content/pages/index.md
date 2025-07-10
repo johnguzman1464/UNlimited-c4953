@@ -383,7 +383,7 @@ sections:
         - name: name
           label: Name
           hideLabel: true
-          placeholder: Nombre
+          placeholder: Nombres y Apellidos
           isRequired: true
           width: full
           type: TextFormControl
