@@ -372,7 +372,7 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
   - title:
-      text: Generic Section With A Form
+      text: Regístrate Ahora
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
