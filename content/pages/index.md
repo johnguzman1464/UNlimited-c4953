@@ -398,7 +398,7 @@ sections:
           name: cel
           label: cel
           hideLabel: true
-          placeholder: Your name
+          placeholder: Numero de Celular
           isRequired: true
           width: full
       elementId: contact-form
