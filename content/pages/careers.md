@@ -4,7 +4,7 @@ slug: careers
 sections:
   - title:
       text: A team that works closely together
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
