@@ -119,7 +119,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Link
-            label: See Tutorials
+            label: Ver historias
             altText: ''
             url: /hist
             showIcon: false
