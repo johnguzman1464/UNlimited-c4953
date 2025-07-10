@@ -153,7 +153,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Link
-            label: See Tutorials
+            label: Proximamente
             altText: ''
             url: /home
             showIcon: false
