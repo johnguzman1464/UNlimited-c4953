@@ -92,7 +92,7 @@ sections:
             elementId: ''
       - title: Historias
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Lee historias de exito
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
