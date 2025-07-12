@@ -1,5 +1,5 @@
 ---
-title: Placeholder 1
+title: El Sena ofrece alternativas para la inclusión laboral
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
