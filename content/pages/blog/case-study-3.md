@@ -1,5 +1,7 @@
 ---
-title: Testimonio3
+title: >-
+  Karen, Jordan y Gabriel: inclusión laboral con el respaldo del CADIS y Riacci
+  By Gicari
 slug: case-study-3
 date: '2025-07-09'
 excerpt: >-
