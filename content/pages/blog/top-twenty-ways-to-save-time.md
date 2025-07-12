@@ -1,7 +1,5 @@
 ---
-title: >-
-  Inclúyeme trabaja por la inclusión sociolaboral de las personas con
-  discapacidad.
+title: 'Incluyeme.com: impulsando la inclusión sociolaboral en países en desarrollo'
 slug: top-twenty-ways-to-save-time
 date: '2025-07-10'
 excerpt: >-
