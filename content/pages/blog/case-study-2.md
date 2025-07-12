@@ -1,5 +1,5 @@
 ---
-title: Testimonio 2
+title: 'Julio Álvarez: una historia de superación con el respaldo del SENA'
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
