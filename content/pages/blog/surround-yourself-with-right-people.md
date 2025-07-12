@@ -1,5 +1,7 @@
 ---
-title: Placeholder 2
+title: >-
+  En Chapinero emprendimientos y servicios para la inclusión de personas con
+  discapacidad.
 slug: surround-yourself-with-right-people
 date: '2024-03-26'
 excerpt: >-
