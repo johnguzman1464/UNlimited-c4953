@@ -24,11 +24,7 @@ styles:
   self:
     flexDirection: col
 ---
-
-
 Creemos en el potencial de todas las personas. Si tienes una discapacidad y estás buscando trabajo, ¡únete a una comunidad laboral inclusiva!
-
-
 
 **Beneficios**
 
@@ -60,21 +56,12 @@ En la ruta de empleo atendemos personas con discapacidad:
 
 **Remisión a las empresas**
 
-****
-
 Una vez te hayas registrado en la plataforma [www.serviciodeempleo.gov.co](www.serviciodeempleo.gov.co), siempre que una empresa publique una vacante y validemos si tu perfil se ajusta a las condiciones del puesto ofrecido, remitiremos tu hoja de vida a la oferta de empleo. Posteriormente, la empresa realizará su proceso de selección y tomará la decisión final de los candidatos a contratar.
-
-
 
 ***¿Cómo accedo a los servicios de la Agencia de Empleo Colsubsidio?***
 
-******
+***
 
 Acércate a la Agencia de Empleo más cercana, conoce nuestras sedes o ingresa a la Agencia de Empleo Virtual.
 
-
 Una vez estés registrado en la plataforma [www.serviciodeempleo.gov.co](www.serviciodeempleo.gov.co) , postúlate desde donde te encuentres a las vacantes activas que tenemos cada mes.
-
-
-
-
