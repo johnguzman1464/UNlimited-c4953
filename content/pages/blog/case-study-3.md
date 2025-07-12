@@ -88,18 +88,26 @@ styles:
 type: PostLayout
 ---
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
 
-Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Karen, Jordan y Gabriel: inclusión laboral con el respaldo del CADIS y Riacci By Gicari
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum.
+Tres historias de superación, compromiso y talento confluyen en Riacci By Gicari, una empresa de marroquinería que ha abierto sus puertas a la inclusión laboral de personas con discapacidad en Bogotá. Gracias a los procesos formativos del Centro de Atención Distrital para la Inclusión Social (CADIS), y a la Estrategia de Fortalecimiento a la Inclusión liderada por la Secretaría Distrital de Integración Social, Karen, Jordan y Gabriel han podido insertarse exitosamente en el mundo laboral.
 
-> Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Laura Gómez - Product Marketing Manager_
+Karen Gutiérrez, de 24 años y con discapacidad visual, encontró en CADIS la oportunidad de formarse como Auxiliar en Almacenamiento, Empaque y Embalaje. Ingresó a la empresa para realizar sus prácticas y, gracias a su dedicación, se convirtió en parte esencial del equipo. Empacando productos con precisión y compromiso, hoy vive su primera experiencia laboral con orgullo.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Jordan Suárez Herrera, de 30 años, con discapacidad cognitiva, también vive su primer empleo formal. Desempeña su labor con concentración y entusiasmo, recibiendo instrucciones con responsabilidad y aportando activamente al proceso de empaque y organización. Para él, esta oportunidad no solo significa independencia, sino también una forma de apoyar a su familia.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Gabriel Ciprian, quien también tiene discapacidad visual, lleva más de un año en la empresa. En la actualidad se encarga del control de calidad y participa en la producción de morrales para motociclistas, pintando diseños con aerógrafo. Su trabajo meticuloso y creativo ha sido clave en la nueva línea de productos de la marca.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Estas historias reflejan el impacto de iniciativas que combinan formación técnica, acompañamiento profesional y voluntad empresarial. Desde CADIS se realiza un seguimiento constante entre empleadores y trabajadores, garantizando procesos de inclusión reales y efectivos. Por su parte, Riacci By Gicari ha demostrado que las empresas que confían en el potencial de las personas con discapacidad no solo transforman vidas, sino que también enriquecen su entorno laboral.
+
+> “Animo a los demás empresarios para que les den más y más oportunidades a los jóvenes con discapacidad”, expresa Jordan, orgulloso de formar parte de un proceso que abre puertas a la esperanza y al crecimiento.
+
+**Extraído de:**
+
+
+Secretaría Distrital de Integración Social (SDIS). (2023, 10 de octubre). Tres historias de éxito sobre inclusión laboral para las personas con discapacidad. 
+
+<https://www.integracionsocial.gov.co/index.php/noticias/96-noticias-discapacidad/6246-tres-historias-de-exito-sobre-inclusion-laboral-para-las-personas-con-discapacidad>
+
+
