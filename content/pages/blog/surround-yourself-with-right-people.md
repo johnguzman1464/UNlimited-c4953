@@ -42,3 +42,8 @@ Como consejera local de Discapacidad, Barragán subrayó la importancia del trab
 El evento también incluyó la exhibición y venta de productos elaborados por los niños y niñas del Centro Crecer Sin Límites Pardo Rubio. La terapeuta ocupacional Andrea Camacho Moreno explicó que en el centro se desarrollan actividades de motricidad fina con un enfoque vocacional. "Trabajamos con alrededor de 12 niños con discapacidad cognitiva. Elaboran materas decorativas, siembran plantas y crean sillas decorativas mediante un proceso de lijado y pintura. También hacemos bisutería, cordones para gafas y cerámicas, que ellos mismos producen completamente, aprovechando sus habilidades”, señaló.
 
 La Secretaría de Integración Social reafirma su compromiso con la mejora de los servicios destinados a personas con discapacidad, sus familias y cuidadores. A lo largo de 2024, la Subdirección para la Discapacidad ha beneficiado a más de 15,000 personas, brindando apoyo y oportunidades de inclusión en la ciudad a través de servicios como Transferencias para personas con discapacidad, CADIS, Centros Renacer, Centros Crecer, Centros Integrarte (Atención Externa) y Centros Integrarte (Atención Interna).
+
+**Extraído de:**
+Secretaría Distrital de Integración Social (SDIS). (2024, 7 de noviembre). En Chapinero: emprendimientos y servicios para la inclusión de personas con discapacidad. 
+
+<https://www.integracionsocial.gov.co/index.php/noticias/96-noticias-discapacidad/6952-en-chapinero-emprendimientos-y-servicios-para-la-inclusion-de-personas-con-discapacidad>
