@@ -1,7 +1,7 @@
 ---
 title: Testimonio3
 slug: case-study-3
-date: '2025-07-08'
+date: '2025-07-09'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
