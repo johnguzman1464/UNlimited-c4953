@@ -37,8 +37,6 @@ Durante 2024, la Subdirección para la Discapacidad ha brindado atención a más
 
 **Extraído de:**
 
-Secretaría Distrital de Integración Social (SDIS). (2024, 7 de noviembre). En Chapinero: emprendimientos y servicios para la inclusión de personas con discapacidad.[ ](https://www.integracionsocial.gov.co/index.php/noticias/96-noticias-discapacidad/6952-en-chapinero-emprendimientos-y-servicios-para-la-inclusion-de-personas-con-discapacidad)
+Agencia de Gestión y Colocación de Empleo Colsubsidio. (s. f.). Ruta de empleo para personas con discapacidad.
 
-[https://www.integracionsocial.gov.co/index.php/noticias/96-noticias-discapacidad/6952-en-chapinero-emprendimientos-y-servicios-para-la-inclusion-de-personas-con-discapacidad
-](https://www.integracionsocial.gov.co/index.php/noticias/96-noticias-discapacidad/6952-en-chapinero-emprendimientos-y-servicios-para-la-inclusion-de-personas-con-discapacidad)
-
+<https://www.agenciadeempleocolsubsidio.com/personas/ruta-de-empleo/personas-con-discapacidad>
