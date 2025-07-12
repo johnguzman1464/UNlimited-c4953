@@ -36,6 +36,7 @@ El SENA no solo forma aprendices con calidad y pertinencia, sino que también lo
 La inclusión laboral de personas con discapacidad no solo transforma vidas, sino que también impulsa el desarrollo económico del país. La diversidad en los equipos de trabajo fomenta la creatividad, el compromiso y la innovación, factores clave para el crecimiento empresarial. Con iniciativas como la de Marisol y la de cientos de aprendices que hoy están construyendo su futuro con el respaldo del SENA, Colombia avanza hacia una sociedad más justa, equitativa y con oportunidades para todos.
 
 **Extraído de:**
+
 Servicio Nacional de Aprendizaje (SENA). (2023, 3 de diciembre). Personas con discapacidad, talento para el trabajo.
 
 <https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=8077>
