@@ -3,11 +3,13 @@ title: El Sena ofrece alternativas para la inclusión laboral
 slug: top-ten-lessons-we-learned
 date: '2025-07-13'
 excerpt: >-
-  Durante el gobierno de los hechos, más de un millón de personas han accedido a
-  contratos de aprendizaje, y dentro de ellas, 772 personas con discapacidad
-  lograron vincularse en 2024. Este año, la cifra sigue en aumento con 131
-  aprendices con discapacidad que ya han iniciado su contrato de aprendizaje en
-  los primeros meses de 2025. 
+  El Servicio Nacional de Aprendizaje (SENA) ha venido fortaleciendo sus
+  estrategias para impulsar la inclusión laboral de personas con discapacidad en
+  Colombia. Durante el actual periodo de gobierno, más de un millón de
+  ciudadanos han accedido a contratos de aprendizaje, y entre ellos, 772
+  personas con discapacidad fueron vinculadas solo en el año 2024. En los
+  primeros meses de 2025, ya se han sumado 131 aprendices con discapacidad a
+  esta dinámica.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
