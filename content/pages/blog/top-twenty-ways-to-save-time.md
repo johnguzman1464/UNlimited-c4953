@@ -22,9 +22,16 @@ styles:
 isFeatured: false
 isDraft: false
 ---
+Incluyeme.com es una organización internacional que trabaja por la inclusión sociolaboral de personas con discapacidad, enfocando sus esfuerzos especialmente en países en desarrollo. Su objetivo principal es transformar los entornos laborales para que sean más justos, accesibles y diversos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+Uno de sus principales aportes es el desarrollo de un modelo propio para medir y guiar la inclusión sociolaboral dentro de las organizaciones. A diferencia de enfoques basados en suposiciones o percepciones, Incluyeme.com trabaja con datos concretos, lo cual permite a las empresas implementar estrategias reales y medibles hacia la inclusión.
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+Este enfoque no solo favorece a las personas con discapacidad, sino que también contribuye al fortalecimiento institucional, ayudando a construir culturas organizacionales más equitativas y sostenibles. A través de herramientas específicas y asesoría especializada, la organización acompaña a entidades públicas y privadas en la creación de espacios laborales accesibles y diversos.
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+**Extraído de:** 
+Incluyeme.com. (s. f.). Trabajamos por la inclusión sociolaboral de las personas con discapacidad.
+[ https://www.incluyeme.com.co](https://www.incluyeme.com.co)
+
+
+
+
