@@ -3,10 +3,11 @@ title: 'Marisol: persistencia y talento que avanza con el apoyo del SENA'
 slug: case-study-1
 date: '2025-07-04'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Marisol es una joven aprendiz del programa Tecnólogo en Gestión Integral de
+  Transporte. Su camino no ha sido fácil: convive con distrofia muscular de
+  Emery-Dreifuss, una enfermedad neuromuscular hereditaria que afecta su
+  movilidad. Sin embargo, su determinación y ganas de salir adelante le han
+  permitido superar múltiples barreras.
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 1
