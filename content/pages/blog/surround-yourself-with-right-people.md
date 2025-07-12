@@ -43,5 +43,7 @@ El evento también incluyó la exhibición y venta de productos elaborados por l
 
 La Secretaría de Integración Social reafirma su compromiso con la mejora de los servicios destinados a personas con discapacidad, sus familias y cuidadores. A lo largo de 2024, la Subdirección para la Discapacidad ha beneficiado a más de 15,000 personas, brindando apoyo y oportunidades de inclusión en la ciudad a través de servicios como Transferencias para personas con discapacidad, CADIS, Centros Renacer, Centros Crecer, Centros Integrarte (Atención Externa) y Centros Integrarte (Atención Interna).
 
+
+
 **Extraído de:** Secretaría Distrital de Integración Social (SDIS). (2024, 7 de noviembre). En Chapinero: emprendimientos y servicios para la inclusión de personas con discapacidad.[ ](https://www.integracionsocial.gov.co/index.php/noticias/96-noticias-discapacidad/6952-en-chapinero-emprendimientos-y-servicios-para-la-inclusion-de-personas-con-discapacidad)[
 ](https://www.integracionsocial.gov.co/index.php/noticias/96-noticias-discapacidad/6952-en-chapinero-emprendimientos-y-servicios-para-la-inclusion-de-personas-con-discapacidad)
