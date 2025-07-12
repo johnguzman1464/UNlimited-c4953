@@ -25,49 +25,32 @@ styles:
   self:
     flexDirection: col
 ---
-Creemos en el potencial de todas las personas. Si tienes una discapacidad y estás buscando trabajo, ¡únete a una comunidad laboral inclusiva!
-
-**Beneficios**
-
-En la Agencia de Gestión y Colocación de Empleo de Colsubsidio, encuentras, sin costo, rutas de acompañamiento profesional en:
-
-*   Orientación y estructuración de tu hoja de vida.
-
-*   Formación especializada que fortalece las competencias y habilidades de las personas con discapacidad.
-
-*   Envío de vacantes ajustadas a tus intereses y necesidades.
-
-**Tipos de discapacidad**
-
-En la ruta de empleo atendemos personas con discapacidad:
-
-*   Visual
-
-*   Auditiva
-
-*   Cognitiva e intelectual
-
-*   Psicosocial
-
-*   Física
-
-*   Múltiple
-
-*   Sordoceguera
-
-**Remisión a las empresas**
-
-Una vez te hayas registrado en la plataforma [www.serviciodeempleo.gov.co](https://www.serviciodeempleo.gov.co/inicio), siempre que una empresa publique una vacante y validemos si tu perfil se ajusta a las condiciones del puesto ofrecido, remitiremos tu hoja de vida a la oferta de empleo. Posteriormente, la empresa realizará su proceso de selección y tomará la decisión final de los candidatos a contratar.
-
-***¿Cómo accedo a los servicios de la Agencia de Empleo Colsubsidio?***
-
-Acércate a la Agencia de Empleo más cercana, conoce nuestras sedes o ingresa a la Agencia de Empleo Virtual.
-
-Una vez estés registrado en la plataforma [www.serviciodeempleo.gov.co](https://www.serviciodeempleo.gov.co/inicio) , postúlate desde donde te encuentres a las vacantes activas que tenemos cada mes.
+La Agencia de Gestión y Colocación de Empleo de Colsubsidio ofrece un acompañamiento gratuito y especializado a personas con discapacidad que estén en búsqueda de oportunidades laborales. Esta ruta de empleo hace parte de una iniciativa que reconoce y promueve el potencial de cada individuo, contribuyendo a una comunidad laboral más inclusiva y equitativa.
 
 
-**Extraído de:** 
+
+*Los servicios que ofrece esta ruta incluyen:*
+
+*   Orientación personalizada para la elaboración y estructuración de hojas de vida.
+
+*   Formación especializada, enfocada en el fortalecimiento de habilidades y competencias específicas.
+
+*   Difusión de vacantes laborales ajustadas al perfil, intereses y necesidades de cada persona.
+
+*   Esta oferta está dirigida a personas con distintos tipos de discapacidad: visual, auditiva, cognitiva, intelectual, psicosocial, física, múltiple y sordoceguera.
+
+
+
+Una vez los usuarios se registran en la plataforma nacional www\.serviciodeempleo.gov.co, su perfil es evaluado frente a las vacantes disponibles. Cuando hay coincidencias entre la oferta y el perfil del postulante, Colsubsidio remite la hoja de vida a las empresas, las cuales realizan el proceso de selección final.
+
+El acceso a esta ruta puede hacerse tanto de forma presencial —acudiendo a una sede de la Agencia de Empleo Colsubsidio— como virtual, a través de su plataforma en línea. De este modo, se facilita la participación desde cualquier lugar del país.
+
+**Extraído de: **
 
 Agencia de Gestión y Colocación de Empleo Colsubsidio. (s. f.). Ruta de empleo para personas con discapacidad. 
 
-<https://www.agenciadeempleocolsubsidio.com/personas/ruta-de-empleo/personas-con-discapacidad>
+[https://www.agenciadeempleocolsubsidio.com/personas/ruta-de-empleo/personas-con-discapacidad
+](https://www.agenciadeempleocolsubsidio.com/personas/ruta-de-empleo/personas-con-discapacidad)
+
+
+
