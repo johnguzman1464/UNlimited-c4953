@@ -5,10 +5,12 @@ title: >-
 slug: surround-yourself-with-right-people
 date: '2024-07-15'
 excerpt: >-
-  Starting a business is no small feat. It’s a journey filled with challenges,
-  risks, and countless decisions that can make or break your startup. One of the
-  most critical decisions you'll make isn’t about your product or market—it's
-  about the people you surround yourself with.
+  Bogotá, D.C., noviembre 7 de 2024. Con el cierre del mes de la discapacidad,
+  se llevó a cabo el Festival Diversifica en la nueva sede del Centro La
+  Felicidad, en la localidad de Chapinero. Este espacio reunió una muestra de
+  emprendimientos de personas con discapacidad y sus cuidadores, junto a una
+  feria de servicios de las entidades del Consejo Local de Discapacidad, además
+  de actos artísticos y culturales.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
