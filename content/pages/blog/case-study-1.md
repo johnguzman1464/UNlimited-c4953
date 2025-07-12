@@ -97,6 +97,8 @@ Su historia es un testimonio del impacto positivo que genera el acceso a la educ
 
 **Extraído de:**
 
-Servicio Nacional de Aprendizaje (SENA). (2023, 3 de diciembre). Personas con discapacidad, talento para el trabajo.[ ](https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=8077)
+Servicio Nacional de Aprendizaje (SENA). (2023, 3 de diciembre). Personas con discapacidad, talento para el trabajo.
+
 
 <https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=8077>
+
