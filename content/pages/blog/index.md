@@ -8,7 +8,7 @@ topSections:
       text: Organizaciones
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Disponen de programas para apoyar a las personas con discapacidad
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
