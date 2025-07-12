@@ -64,3 +64,10 @@ Una vez te hayas registrado en la plataforma [www.serviciodeempleo.gov.co](https
 Acércate a la Agencia de Empleo más cercana, conoce nuestras sedes o ingresa a la Agencia de Empleo Virtual.
 
 Una vez estés registrado en la plataforma [www.serviciodeempleo.gov.co](https://www.serviciodeempleo.gov.co/inicio) , postúlate desde donde te encuentres a las vacantes activas que tenemos cada mes.
+
+
+**Extraído de:** 
+
+Agencia de Gestión y Colocación de Empleo Colsubsidio. (s. f.). Ruta de empleo para personas con discapacidad. 
+
+<https://www.agenciadeempleocolsubsidio.com/personas/ruta-de-empleo/personas-con-discapacidad>
