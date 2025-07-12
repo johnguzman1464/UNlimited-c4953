@@ -1,5 +1,5 @@
 ---
-title: Testimonio 1
+title: 'Marisol: persistencia y talento que avanza con el apoyo del SENA'
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
