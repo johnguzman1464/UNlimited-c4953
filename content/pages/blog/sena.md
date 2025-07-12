@@ -4,10 +4,11 @@ title: Colsubsidio Ruta de empleo para personas con discapacidad
 date: '2024-03-26'
 author: content/data/person1.json
 excerpt: >-
-  Starting a business is no small feat. It’s a journey filled with challenges,
-  risks, and countless decisions that can make or break your startup. One of the
-  most critical decisions you'll make isn’t about your product or market—it's
-  about the people you surround yourself with.
+  En la Agencia de Gestión y Colocación de Empleo de Colsubsidio, encuentras,
+  sin costo, rutas de acompañamiento profesional en: Orientación y
+  estructuración de tu hoja de vida. Formación especializada que fortalece las
+  competencias y habilidades de las personas con discapacidad. Envío de vacantes
+  ajustadas a tus intereses y necesidades.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
