@@ -60,8 +60,6 @@ Una vez te hayas registrado en la plataforma [www.serviciodeempleo.gov.co](www.s
 
 ***¿Cómo accedo a los servicios de la Agencia de Empleo Colsubsidio?***
 
-***
-
 Acércate a la Agencia de Empleo más cercana, conoce nuestras sedes o ingresa a la Agencia de Empleo Virtual.
 
 Una vez estés registrado en la plataforma [www.serviciodeempleo.gov.co](www.serviciodeempleo.gov.co) , postúlate desde donde te encuentres a las vacantes activas que tenemos cada mes.
