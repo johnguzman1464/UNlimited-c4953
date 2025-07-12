@@ -3,9 +3,11 @@ title: El Sena ofrece alternativas para la inclusión laboral
 slug: top-ten-lessons-we-learned
 date: '2025-07-13'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Durante el gobierno de los hechos, más de un millón de personas han accedido a
+  contratos de aprendizaje, y dentro de ellas, 772 personas con discapacidad
+  lograron vincularse en 2024. Este año, la cifra sigue en aumento con 131
+  aprendices con discapacidad que ya han iniciado su contrato de aprendizaje en
+  los primeros meses de 2025. 
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
