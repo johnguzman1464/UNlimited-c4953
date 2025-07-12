@@ -1,7 +1,5 @@
 ---
-title: >-
-  En Chapinero emprendimientos y servicios para la inclusión de personas con
-  discapacidad.
+title: Chapinero impulsa la inclusión a través del emprendimiento y la cultura
 slug: surround-yourself-with-right-people
 date: '2024-07-15'
 excerpt: >-
