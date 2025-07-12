@@ -3,10 +3,12 @@ title: 'Julio Álvarez: una historia de superación con el respaldo del SENA'
 slug: case-study-2
 date: '2024-07-01'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Julio Álvarez, de 47 años, es un claro ejemplo de resiliencia y transformación
+  personal. A los 33 años, una enfermedad le ocasionó una discapacidad física
+  que impactó profundamente su vida familiar y profesional. Sin embargo,
+  encontró en el Servicio Nacional de Aprendizaje (SENA) una oportunidad para
+  reconstruir su camino, recuperar la autonomía y proyectarse hacia nuevos
+  horizontes.
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 2
