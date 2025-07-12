@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: Colsubsidio Ruta de empleo para personas con discapacidad
+title: >-
+  Colsubsidio promueve una ruta de empleo inclusiva para personas con
+  discapacidad
 date: '2024-03-26'
 author: content/data/person1.json
 excerpt: >-
