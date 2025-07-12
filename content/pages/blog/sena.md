@@ -25,50 +25,56 @@ styles:
     flexDirection: col
 ---
 
-Starting a business is no small feat. It’s a journey filled with challenges, risks, and countless decisions that can make or break your startup. One of the most critical decisions you'll make isn’t about your product or market—it's about the people you surround yourself with.
 
-## Why the Right People Matter
+Creemos en el potencial de todas las personas. Si tienes una discapacidad y estás buscando trabajo, ¡únete a una comunidad laboral inclusiva!
 
-In the early stages of a startup, every team member plays a crucial role. The right people bring not only their skills but also their energy, attitude, and resilience. They’re the ones who will stick with you through thick and thin, help navigate obstacles, and push the company toward success.
 
-### 1. Shared Vision
 
-Having a team that aligns with your vision is essential. People who understand and believe in your mission will work tirelessly to see it come to life. They’ll be your champions, your sounding boards, and your biggest supporters.
+**Beneficios**
 
-### 2. Diverse Skills
+En la Agencia de Gestión y Colocación de Empleo de Colsubsidio, encuentras, sin costo, rutas de acompañamiento profesional en:
 
-Surround yourself with individuals whose skills complement yours. A diverse team brings different perspectives, ideas, and solutions to the table. This diversity is invaluable when it comes to innovation and problem-solving.
+*   Orientación y estructuración de tu hoja de vida.
 
-### 3. Positive Energy
+*   Formación especializada que fortalece las competencias y habilidades de las personas con discapacidad.
 
-Startups are demanding, and the road to success can be bumpy. Positive, resilient individuals help maintain morale and keep the team motivated, even during tough times. Their optimism can be infectious, boosting the entire team's spirit.
+*   Envío de vacantes ajustadas a tus intereses y necesidades.
 
-### 4. Constructive Criticism
+**Tipos de discapacidad**
 
-You need people who can provide honest, constructive feedback. Yes-men won’t help you grow; critical thinkers will. Surround yourself with people who challenge your ideas and push you to refine and improve them.
+En la ruta de empleo atendemos personas con discapacidad:
 
-### 5. Cultural Fit
+*   Visual
 
-Beyond skills and experience, cultural fit is crucial. A cohesive team culture fosters better communication, collaboration, and a more enjoyable work environment. This leads to higher productivity and lower turnover.
+*   Auditiva
 
-## How to Find the Right People
+*   Cognitiva e intelectual
 
-### 1. Network Intentionally
+*   Psicosocial
 
-Attend industry events, join startup communities, and engage with like-minded individuals. Networking intentionally can help you find people who share your values and aspirations.
+*   Física
 
-### 2. Leverage Referrals
+*   Múltiple
 
-Ask your existing network for referrals. People you trust are likely to introduce you to other reliable and skilled professionals.
+*   Sordoceguera
 
-### 3. Assess Soft Skills
+**Remisión a las empresas**
 
-During the hiring process, don’t just focus on technical abilities. Assess candidates' soft skills, such as communication, adaptability, and teamwork, which are crucial in a startup environment.
+****
 
-### 4. Trial Periods
+Una vez te hayas registrado en la plataforma [www.serviciodeempleo.gov.co](www.serviciodeempleo.gov.co), siempre que una empresa publique una vacante y validemos si tu perfil se ajusta a las condiciones del puesto ofrecido, remitiremos tu hoja de vida a la oferta de empleo. Posteriormente, la empresa realizará su proceso de selección y tomará la decisión final de los candidatos a contratar.
 
-Consider trial periods for new hires. This allows both parties to assess fit and compatibility before making a long-term commitment.
 
-## Conclusion
 
-In the journey of building a startup, the people you surround yourself with can significantly impact your success. By choosing individuals who share your vision, bring diverse skills, and contribute positively to the company culture, you’ll create a strong foundation for growth. Remember, the right team can turn your startup dream into a reality.
+***¿Cómo accedo a los servicios de la Agencia de Empleo Colsubsidio?***
+
+******
+
+Acércate a la Agencia de Empleo más cercana, conoce nuestras sedes o ingresa a la Agencia de Empleo Virtual.
+
+
+Una vez estés registrado en la plataforma [www.serviciodeempleo.gov.co](www.serviciodeempleo.gov.co) , postúlate desde donde te encuentres a las vacantes activas que tenemos cada mes.
+
+
+
+
