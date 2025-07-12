@@ -24,19 +24,18 @@ type: PostLayout
 author: content/data/person1.json
 isDraft: false
 ---
-Durante el gobierno de los hechos, más de un millón de personas han accedido a contratos de aprendizaje, y dentro de ellas, 772 personas con discapacidad lograron vincularse en 2024. Este año, la cifra sigue en aumento con 131 aprendices con discapacidad que ya han iniciado su contrato de aprendizaje en los primeros meses de 2025.
+El Servicio Nacional de Aprendizaje (SENA) ha venido fortaleciendo sus estrategias para impulsar la inclusión laboral de personas con discapacidad en Colombia. Durante el actual periodo de gobierno, más de un millón de ciudadanos han accedido a contratos de aprendizaje, y entre ellos, 772 personas con discapacidad fueron vinculadas solo en el año 2024. En los primeros meses de 2025, ya se han sumado 131 aprendices con discapacidad a esta dinámica.
 
-Esta labor no solo representa un beneficio para los aprendices, sino también para el sector empresarial, que ha encontrado en estos jóvenes una fuente de talento comprometido y resiliente. Empresas como TransMilenio, D1, Crepes & Waffles, e incluso multinacionales, han apostado por la inclusión laboral, reconociendo que la diversidad fortalece el tejido empresarial y potencia la innovación.
+Este esfuerzo no solo representa oportunidades para los aprendices, sino también beneficios para el sector empresarial. Compañías como TransMilenio, D1, Crepes & Waffles y diversas multinacionales han reconocido el valor del talento diverso, apostando por la inclusión como una fuente de innovación y resiliencia organizacional.
 
-Actualmente, 398 empresas han contratado aprendices con discapacidad, reflejando un avance significativo en la inclusión laboral en Colombia. La Ley 361 de 1997 otorga beneficios tributarios a los empleadores que contraten personas con discapacidad, un incentivo que, sumado a la riqueza de talento y compromiso de estos aprendices, ha motivado a más empresas a sumarse a esta iniciativa.
+Hasta el momento, 398 empresas han vinculado a aprendices con discapacidad, mostrando un progreso concreto hacia una economía más inclusiva. Este avance también ha sido impulsado por la Ley 361 de 1997, que otorga beneficios tributarios a quienes contratan personas con discapacidad, lo cual ha sido un incentivo clave para la participación empresarial.
 
-“Para nosotros desde el SENA es clave poder garantizarles todas las oportunidades en un marco de derechos a las personas con discapacidad. Nuestro enfoque diferencial asegura, precisamente, ese abordaje hacia estas personas. El año pasado, alrededor de 800 personas con discapacidad fueron beneficiarias del contrato de aprendizaje, quienes pudieron ir a las empresas a contribuir con su valor, con su talento en cada una de las actividades que estaban desempeñando”, destacó David Garzón García, director de Promoción y Relaciones Corporativas.
-
-El SENA no solo forma aprendices con calidad y pertinencia, sino que también los acompaña en su proceso de inserción laboral. Desde la intermediación con el sector productivo hasta la orientación para la adaptación en los espacios de trabajo, la Entidad garantiza que cada aprendiz tenga las herramientas necesarias para desempeñarse con éxito.Una sociedad más incluyente, una economía más fuerte
-La inclusión laboral de personas con discapacidad no solo transforma vidas, sino que también impulsa el desarrollo económico del país. La diversidad en los equipos de trabajo fomenta la creatividad, el compromiso y la innovación, factores clave para el crecimiento empresarial. Con iniciativas como la de Marisol y la de cientos de aprendices que hoy están construyendo su futuro con el respaldo del SENA, Colombia avanza hacia una sociedad más justa, equitativa y con oportunidades para todos.
+Desde su rol institucional, el SENA acompaña todo el proceso formativo y de inserción laboral, facilitando la articulación entre los aprendices y el sector productivo. La entidad promueve un enfoque diferencial basado en derechos, garantizando que cada aprendiz cuente con el apoyo necesario para desenvolverse de manera exitosa en su entorno laboral.
 
 **Extraído de:**
 
 Servicio Nacional de Aprendizaje (SENA). (2023, 3 de diciembre). Personas con discapacidad, talento para el trabajo.
 
-<https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=8077>
+[https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=8077
+](https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=8077)
+
