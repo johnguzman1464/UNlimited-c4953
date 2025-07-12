@@ -28,10 +28,7 @@ Uno de sus principales aportes es el desarrollo de un modelo propio para medir y
 
 Este enfoque no solo favorece a las personas con discapacidad, sino que también contribuye al fortalecimiento institucional, ayudando a construir culturas organizacionales más equitativas y sostenibles. A través de herramientas específicas y asesoría especializada, la organización acompaña a entidades públicas y privadas en la creación de espacios laborales accesibles y diversos.
 
-**Extraído de:** 
+**Extraído de:**
 Incluyeme.com. (s. f.). Trabajamos por la inclusión sociolaboral de las personas con discapacidad.
-[ https://www.incluyeme.com.co](https://www.incluyeme.com.co)
 
-
-
-
+<https://www.incluyeme.com.co>
