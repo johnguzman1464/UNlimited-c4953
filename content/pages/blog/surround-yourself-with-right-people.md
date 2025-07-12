@@ -3,12 +3,12 @@ title: Chapinero impulsa la inclusión a través del emprendimiento y la cultura
 slug: surround-yourself-with-right-people
 date: '2024-07-15'
 excerpt: >-
-  Bogotá, D.C., noviembre 7 de 2024. Con el cierre del mes de la discapacidad,
-  se llevó a cabo el Festival Diversifica en la nueva sede del Centro La
-  Felicidad, en la localidad de Chapinero. Este espacio reunió una muestra de
-  emprendimientos de personas con discapacidad y sus cuidadores, junto a una
-  feria de servicios de las entidades del Consejo Local de Discapacidad, además
-  de actos artísticos y culturales.
+  En el marco del cierre del mes de la discapacidad, la localidad de Chapinero
+  (Bogotá) fue escenario del Festival Diversifica, un evento que reunió más de
+  20 emprendimientos liderados por personas con discapacidad y sus cuidadores.
+  La jornada tuvo lugar en la sede del Centro La Felicidad y también incluyó una
+  feria de servicios, actividades artísticas y culturales promovidas por el
+  Consejo Local de Discapacidad.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
