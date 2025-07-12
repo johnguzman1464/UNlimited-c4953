@@ -87,17 +87,25 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+Julio Álvarez, de 47 años, es un claro ejemplo de resiliencia y transformación personal. A los 33 años, una enfermedad le ocasionó una discapacidad física que impactó profundamente su vida familiar y profesional. Sin embargo, encontró en el Servicio Nacional de Aprendizaje (SENA) una oportunidad para reconstruir su camino, recuperar la autonomía y proyectarse hacia nuevos horizontes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Actualmente cursa el programa técnico en Asesoría Comercial en el Centro de Comercio de la regional Antioquia. A través de este proceso, Julio no solo ha fortalecido sus competencias laborales, sino también su confianza y bienestar personal. En sus palabras, la motivación para salir adelante vino de sus hijos, quienes lo impulsaron a retomar sus sueños.
 
-![](/images/img-placeholder.svg)
+> “Llegué al SENA con la meta de volver a trabajar, pero encontré más que eso: encontré la oportunidad de ser una persona completa y alcanzar metas más grandes.”
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Uno de los pilares en su formación ha sido el acompañamiento pedagógico que ha recibido. Destaca el papel de su instructor, Jaime Posada, por su enfoque empático y profesional que ha sido fundamental para superar barreras y demostrar que las limitaciones no definen las capacidades.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+> “Aquí no importa si tienes una discapacidad, lo importante es mostrar lo que puedes hacer. El SENA nos brinda herramientas no solo para ser mejores profesionales, sino también mejores seres humanos.”
 
-> Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices.
->
-> _By Gordon Red - Director of IT_
+Durante su etapa productiva, Julio pudo demostrar su compromiso y habilidades en un entorno real de trabajo, reafirmando su capacidad para contribuir de forma efectiva en cualquier espacio laboral. Su testimonio es un reflejo del impacto que puede tener una formación inclusiva, comprometida con el desarrollo humano y la equidad.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+El caso de Julio representa una experiencia transformadora y un llamado a seguir impulsando espacios de educación y trabajo verdaderamente inclusivos.
+
+
+**Extraído de:**
+
+
+Servicio Nacional de Aprendizaje (SENA). (2024). Julio Álvarez: una historia de resiliencia. 
+
+<https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=7407>
+
