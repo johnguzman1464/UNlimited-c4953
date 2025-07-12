@@ -3,9 +3,10 @@ title: 'Incluyeme.com: impulsando la inclusión sociolaboral en países en desar
 slug: top-twenty-ways-to-save-time
 date: '2025-07-10'
 excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  Incluyeme.com es una organización internacional que trabaja por la inclusión
+  sociolaboral de personas con discapacidad, enfocando sus esfuerzos
+  especialmente en países en desarrollo. Su objetivo principal es transformar
+  los entornos laborales para que sean más justos, accesibles y diversos.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
