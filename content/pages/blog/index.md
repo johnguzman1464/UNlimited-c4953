@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: false
 topSections:
   - title:
-      text: Featured Post
+      text: Organizaciones
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
