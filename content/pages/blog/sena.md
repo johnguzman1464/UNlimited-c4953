@@ -6,11 +6,11 @@ title: >-
 date: '2024-03-26'
 author: content/data/person1.json
 excerpt: >-
-  En la Agencia de Gestión y Colocación de Empleo de Colsubsidio, encuentras,
-  sin costo, rutas de acompañamiento profesional en: Orientación y
-  estructuración de tu hoja de vida. Formación especializada que fortalece las
-  competencias y habilidades de las personas con discapacidad. Envío de vacantes
-  ajustadas a tus intereses y necesidades.
+  La Agencia de Gestión y Colocación de Empleo de Colsubsidio ofrece un
+  acompañamiento gratuito y especializado a personas con discapacidad que estén
+  en búsqueda de oportunidades laborales. Esta ruta de empleo hace parte de una
+  iniciativa que reconoce y promueve el potencial de cada individuo,
+  contribuyendo a una comunidad laboral más inclusiva y equitativa.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
