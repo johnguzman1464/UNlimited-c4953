@@ -1,7 +1,7 @@
 ---
 title: 'Marisol: persistencia y talento que avanza con el apoyo del SENA'
 slug: case-study-1
-date: '2025-07-05'
+date: '2025-07-03'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
